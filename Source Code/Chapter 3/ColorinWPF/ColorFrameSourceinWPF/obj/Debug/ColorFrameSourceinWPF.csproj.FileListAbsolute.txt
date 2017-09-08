@@ -1,0 +1,2 @@
+C:\Users\mansi\OneDrive\Books\Kinect 2.0\Source Code\Chapter 3\ColorFrameSourceinWPF\ColorFrameSourceinWPF\bin\Debug\ColorFrameSourceinWPF.exe.config
+C:\Users\mansi\OneDrive\Books\Kinect 2.0\Source Code\Chapter 3\ColorinWPF\ColorFrameSourceinWPF\bin\Debug\ColorFrameSourceinWPF.exe.config

@@ -1,0 +1,73 @@
+﻿<grammar version="1.0" xml:lang="en-US" root="rootRule" tag-format="semantics/1.0-literals" xmlns="http://www.w3.org/2001/06/grammar">
+  <rule id="rootRule">
+    <one-of>
+      <item>
+        <tag>TOPLEFT</tag>
+        <one-of>
+          <item> top left </item>
+          <item> top left corner </item>
+          <item> upper left corner </item>
+        </one-of>
+      </item>
+      <item>
+        <tag>TOP</tag>
+        <one-of>
+          <item> top </item>
+          <item> top center </item>
+        </one-of>
+      </item>
+      <item>
+        <tag>TOPRIGHT</tag>
+        <one-of>
+          <item> top right </item>
+          <item> top right corner </item>
+          <item> upper right corner </item>
+        </one-of>
+      </item>
+      <item>
+        <tag>LEFT</tag>
+        <one-of>
+          <item> left </item>
+          <item> center left </item>
+        </one-of>
+      </item>
+      <item>
+        <tag>CENTER</tag>
+        <one-of>
+          <item> center </item>
+          <item> middle </item>
+        </one-of>
+      </item>
+      <item>
+        <tag>RIGHT</tag>
+        <one-of>
+          <item> right </item>
+          <item> center right </item>
+        </one-of>
+      </item>
+      <item>
+        <tag>BOTTOMLEFT</tag>
+        <one-of>
+          <item> bottom left </item>
+          <item> lower left corner </item>
+          <item> bottom left corner </item>
+        </one-of>
+      </item>
+      <item>
+        <tag>BOTTOM</tag>
+        <one-of>
+          <item> bottom </item>
+          <item> bottom center </item>
+        </one-of>
+      </item>
+      <item>
+        <tag>BOTTOMRIGHT</tag>
+        <one-of>
+          <item> bottom right </item>
+          <item> lower right corner </item>
+          <item> bottom right corner </item>
+        </one-of>
+      </item>
+    </one-of>
+  </rule>
+</grammar>

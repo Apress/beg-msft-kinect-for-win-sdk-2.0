@@ -1,0 +1,12 @@
+﻿<Window x:Class="GreenScreen.MainWindow"
+       xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Green Screen"
+        Closing="MainWindow_Closing" Height="927.5" Width="1092">
+
+    <Grid>
+        <Image Source="Images/background.jpg" Stretch="UniformToFill" />
+        <Image Source="{Binding ImageSource}" Stretch="UniformToFill" />
+    </Grid>
+</Window>
+

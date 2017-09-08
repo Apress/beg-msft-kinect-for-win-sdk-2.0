@@ -1,0 +1,37 @@
+c:\users\mansi\documents\visual studio 2015\Projects\KinectEmguCVDependency\KinectEmguCVDependency\bin\x64\Debug\KinectEmguCVDependency.exe.config
+c:\users\mansi\documents\visual studio 2015\Projects\KinectEmguCVDependency\KinectEmguCVDependency\bin\x64\Debug\KinectEmguCVDependency.exe
+c:\users\mansi\documents\visual studio 2015\Projects\KinectEmguCVDependency\KinectEmguCVDependency\bin\x64\Debug\KinectEmguCVDependency.pdb
+c:\users\mansi\documents\visual studio 2015\Projects\KinectEmguCVDependency\KinectEmguCVDependency\bin\x64\Debug\Emgu.CV.World.dll
+c:\users\mansi\documents\visual studio 2015\Projects\KinectEmguCVDependency\KinectEmguCVDependency\bin\x64\Debug\Emgu.CV.World.pdb
+c:\users\mansi\documents\visual studio 2015\Projects\KinectEmguCVDependency\KinectEmguCVDependency\bin\x64\Debug\Emgu.CV.World.xml
+c:\users\mansi\documents\visual studio 2015\Projects\KinectEmguCVDependency\KinectEmguCVDependency\obj\x64\Debug\MainWindow.g.cs
+c:\users\mansi\documents\visual studio 2015\Projects\KinectEmguCVDependency\KinectEmguCVDependency\obj\x64\Debug\App.g.cs
+c:\users\mansi\documents\visual studio 2015\Projects\KinectEmguCVDependency\KinectEmguCVDependency\obj\x64\Debug\KinectEmguCVDependency_MarkupCompile.cache
+c:\users\mansi\documents\visual studio 2015\Projects\KinectEmguCVDependency\KinectEmguCVDependency\obj\x64\Debug\KinectEmguCVDependency_MarkupCompile.lref
+c:\users\mansi\documents\visual studio 2015\Projects\KinectEmguCVDependency\KinectEmguCVDependency\obj\x64\Debug\MainWindow.baml
+c:\users\mansi\documents\visual studio 2015\Projects\KinectEmguCVDependency\KinectEmguCVDependency\obj\x64\Debug\KinectEmguCVDependency.g.resources
+c:\users\mansi\documents\visual studio 2015\Projects\KinectEmguCVDependency\KinectEmguCVDependency\obj\x64\Debug\KinectEmguCVDependency.Properties.Resources.resources
+c:\users\mansi\documents\visual studio 2015\Projects\KinectEmguCVDependency\KinectEmguCVDependency\obj\x64\Debug\KinectEmguCVDependency.csproj.GenerateResource.Cache
+c:\users\mansi\documents\visual studio 2015\Projects\KinectEmguCVDependency\KinectEmguCVDependency\obj\x64\Debug\KinectEmguCVDependency.exe
+c:\users\mansi\documents\visual studio 2015\Projects\KinectEmguCVDependency\KinectEmguCVDependency\obj\x64\Debug\KinectEmguCVDependency.pdb
+c:\users\mansi\documents\visual studio 2015\Projects\KinectEmguCVDependency\KinectEmguCVDependency\obj\x64\Debug\KinectEmguCVDependency.csprojResolveAssemblyReference.cache
+C:\Users\mansi\Documents\Visual Studio 2015\Projects\KinectEmguCVDependency\KinectEmguCVDependency\bin\x64\Debug\Microsoft.Kinect.dll
+C:\Users\mansi\Documents\Visual Studio 2015\Projects\KinectEmguCVDependency\KinectEmguCVDependency\bin\x64\Debug\Microsoft.Kinect.xml
+C:\Users\mansi\OneDrive\Books\Kinect 2.0\Source Code\Chapter 6\KinectEmguCVDependency\KinectEmguCVDependency\bin\x64\Debug\KinectEmguCVDependency.exe.config
+C:\Users\mansi\OneDrive\Books\Kinect 2.0\Source Code\Chapter 6\KinectEmguCVDependency\KinectEmguCVDependency\obj\x64\Debug\KinectEmguCVDependency.exe
+C:\Users\mansi\OneDrive\Books\Kinect 2.0\Source Code\Chapter 6\KinectEmguCVDependency\KinectEmguCVDependency\obj\x64\Debug\KinectEmguCVDependency.pdb
+C:\Users\mansi\OneDrive\Books\Kinect 2.0\Source Code\Chapter 6\KinectEmguCVDependency\KinectEmguCVDependency\bin\x64\Debug\KinectEmguCVDependency.exe
+C:\Users\mansi\OneDrive\Books\Kinect 2.0\Source Code\Chapter 6\KinectEmguCVDependency\KinectEmguCVDependency\bin\x64\Debug\KinectEmguCVDependency.pdb
+C:\Users\mansi\OneDrive\Books\Kinect 2.0\Source Code\Chapter 6\KinectEmguCVDependency\KinectEmguCVDependency\bin\x64\Debug\Microsoft.Kinect.dll
+C:\Users\mansi\OneDrive\Books\Kinect 2.0\Source Code\Chapter 6\KinectEmguCVDependency\KinectEmguCVDependency\bin\x64\Debug\Emgu.CV.World.pdb
+C:\Users\mansi\OneDrive\Books\Kinect 2.0\Source Code\Chapter 6\KinectEmguCVDependency\KinectEmguCVDependency\bin\x64\Debug\Emgu.CV.World.xml
+C:\Users\mansi\OneDrive\Books\Kinect 2.0\Source Code\Chapter 6\KinectEmguCVDependency\KinectEmguCVDependency\bin\x64\Debug\Microsoft.Kinect.xml
+C:\Users\mansi\OneDrive\Books\Kinect 2.0\Source Code\Chapter 6\KinectEmguCVDependency\KinectEmguCVDependency\obj\x64\Debug\KinectEmguCVDependency.csprojResolveAssemblyReference.cache
+C:\Users\mansi\OneDrive\Books\Kinect 2.0\Source Code\Chapter 6\KinectEmguCVDependency\KinectEmguCVDependency\obj\x64\Debug\MainWindow.g.cs
+C:\Users\mansi\OneDrive\Books\Kinect 2.0\Source Code\Chapter 6\KinectEmguCVDependency\KinectEmguCVDependency\obj\x64\Debug\App.g.cs
+C:\Users\mansi\OneDrive\Books\Kinect 2.0\Source Code\Chapter 6\KinectEmguCVDependency\KinectEmguCVDependency\obj\x64\Debug\KinectEmguCVDependency_MarkupCompile.cache
+C:\Users\mansi\OneDrive\Books\Kinect 2.0\Source Code\Chapter 6\KinectEmguCVDependency\KinectEmguCVDependency\obj\x64\Debug\KinectEmguCVDependency_MarkupCompile.lref
+C:\Users\mansi\OneDrive\Books\Kinect 2.0\Source Code\Chapter 6\KinectEmguCVDependency\KinectEmguCVDependency\obj\x64\Debug\MainWindow.baml
+C:\Users\mansi\OneDrive\Books\Kinect 2.0\Source Code\Chapter 6\KinectEmguCVDependency\KinectEmguCVDependency\obj\x64\Debug\KinectEmguCVDependency.g.resources
+C:\Users\mansi\OneDrive\Books\Kinect 2.0\Source Code\Chapter 6\KinectEmguCVDependency\KinectEmguCVDependency\obj\x64\Debug\KinectEmguCVDependency.Properties.Resources.resources
+C:\Users\mansi\OneDrive\Books\Kinect 2.0\Source Code\Chapter 6\KinectEmguCVDependency\KinectEmguCVDependency\obj\x64\Debug\KinectEmguCVDependency.csproj.GenerateResource.Cache

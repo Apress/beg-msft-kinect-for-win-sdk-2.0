@@ -1,0 +1,16 @@
+C:\Users\mansi\Documents\Visual Studio 2015\Projects\Kinect Movement Detector\KinectImageProcessingBasics\bin\x64\Debug\Kinect Movement Detector.exe.config
+C:\Users\mansi\Documents\Visual Studio 2015\Projects\Kinect Movement Detector\KinectImageProcessingBasics\bin\x64\Debug\Kinect Movement Detector.exe
+C:\Users\mansi\Documents\Visual Studio 2015\Projects\Kinect Movement Detector\KinectImageProcessingBasics\bin\x64\Debug\Kinect Movement Detector.pdb
+C:\Users\mansi\Documents\Visual Studio 2015\Projects\Kinect Movement Detector\KinectImageProcessingBasics\bin\x64\Debug\Microsoft.Kinect.dll
+C:\Users\mansi\Documents\Visual Studio 2015\Projects\Kinect Movement Detector\KinectImageProcessingBasics\bin\x64\Debug\Microsoft.Kinect.xml
+C:\Users\mansi\Documents\Visual Studio 2015\Projects\Kinect Movement Detector\KinectImageProcessingBasics\obj\x64\Debug\KinectMovementDetector.csprojResolveAssemblyReference.cache
+C:\Users\mansi\Documents\Visual Studio 2015\Projects\Kinect Movement Detector\KinectImageProcessingBasics\obj\x64\Debug\MainWindow.g.cs
+C:\Users\mansi\Documents\Visual Studio 2015\Projects\Kinect Movement Detector\KinectImageProcessingBasics\obj\x64\Debug\App.g.cs
+C:\Users\mansi\Documents\Visual Studio 2015\Projects\Kinect Movement Detector\KinectImageProcessingBasics\obj\x64\Debug\Kinect Movement Detector_MarkupCompile.cache
+C:\Users\mansi\Documents\Visual Studio 2015\Projects\Kinect Movement Detector\KinectImageProcessingBasics\obj\x64\Debug\Kinect Movement Detector_MarkupCompile.lref
+C:\Users\mansi\Documents\Visual Studio 2015\Projects\Kinect Movement Detector\KinectImageProcessingBasics\obj\x64\Debug\MainWindow.baml
+C:\Users\mansi\Documents\Visual Studio 2015\Projects\Kinect Movement Detector\KinectImageProcessingBasics\obj\x64\Debug\Kinect Movement Detector.g.resources
+C:\Users\mansi\Documents\Visual Studio 2015\Projects\Kinect Movement Detector\KinectImageProcessingBasics\obj\x64\Debug\KinectMovementDetector.Properties.Resources.resources
+C:\Users\mansi\Documents\Visual Studio 2015\Projects\Kinect Movement Detector\KinectImageProcessingBasics\obj\x64\Debug\KinectMovementDetector.csproj.GenerateResource.Cache
+C:\Users\mansi\Documents\Visual Studio 2015\Projects\Kinect Movement Detector\KinectImageProcessingBasics\obj\x64\Debug\Kinect Movement Detector.exe
+C:\Users\mansi\Documents\Visual Studio 2015\Projects\Kinect Movement Detector\KinectImageProcessingBasics\obj\x64\Debug\Kinect Movement Detector.pdb

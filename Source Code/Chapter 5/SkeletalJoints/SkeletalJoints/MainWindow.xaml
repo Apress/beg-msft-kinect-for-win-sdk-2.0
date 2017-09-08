@@ -1,0 +1,10 @@
+﻿<Window x:Class="SkeletalJoints.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Skeletal Joints" Height="604" Width="1028" ResizeMode="NoResize">
+    <Grid>
+        <Image Source="{Binding ImageSource}" Width="1024" Height="576" />
+        <Canvas Name="canvas" Width="1024" Height="576" />
+    </Grid>
+</Window>
+
