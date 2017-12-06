@@ -29,7 +29,7 @@ namespace PixelDistance
 
             depthFrameDescription = kinect.DepthFrameSource.FrameDescription;
 
-            depthPixels = new byte[depthFrameDescription.Width * depthFrameDescription.Height];
+            depthPixels = new byte[depthFrameDescription.Width * depthFrameDescription.Height *4];
             depthBitmap = new WriteableBitmap(depthFrameDescription.Width, depthFrameDescription.Height, 96.0, 96.0, PixelFormats.Gray8, null);
             depthData = new int[this.depthFrameDescription.Width * this.depthFrameDescription.Height];
 
